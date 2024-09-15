@@ -1,0 +1,51 @@
+body {
+    background-image: url(../images/resume_background.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    /* background-attachment: scroll; */
+    background-position: top;
+    
+    font-family:'Courier New', Courier, monospace;
+    /* font-size: 150%; */
+}
+
+h1 {
+    font-size: 400%;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    text-justify: auto;
+    position: relative; top:28px; left:270px; right:0px; bottom:0px;
+}
+
+h2 {
+    font-size: 200%;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    text-justify: auto;
+    position: relative; top:0px; left:270px; right:0px; bottom:0px;
+}
+
+.box {
+    width: 500px;
+    height: 630px;
+    background-color: #ffffff;
+    position: relative; top: -700px; left: 150px;
+    cursor: pointer;
+    opacity: 0%;
+}
+
+button {
+    position:relative; top: -1445px; left: 15px;
+}
+
+/* li span {
+    position: relative;
+    left: -100px;
+    text-align: right;
+} */
+
+ul {
+    text-align: right;
+}

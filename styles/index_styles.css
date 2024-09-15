@@ -1,0 +1,76 @@
+body {
+    background-image: url(../images/rijul_background.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    /* background-attachment: scroll; */
+    background-position: top;
+    
+    font-family:'Courier New', Courier, monospace;
+    /* font-size: 150%; */
+
+    /* z-index: 1; */
+}
+
+h1 {
+    font-size: 400%;
+    font-weight: bold;
+    color: #500000;
+    text-align: left;
+    text-justify: auto;
+    position: relative; top:30px; left:15px; right:0px; bottom:0px;
+}
+
+h2 {
+    font-size: 200%;
+    font-weight: bold;
+    color: #500000;
+    text-align: left;
+    text-justify: auto;
+    position: relative; top:0px; left:15px; right:0px; bottom:0px;
+}
+
+.aboutMe {
+    /* font-size: 400%; */
+    /* font-weight: bold; */
+    /* color: #500000; */
+    text-align: right;
+    /* text-justify: auto; */
+    position:relative; top:190px; right: 15px;
+}
+
+.aboutMeSection {
+    /* font-size: 200%; */
+    /* font-weight: bold; */
+    /* color: #500000; */
+    text-align: right;
+    /* text-justify: auto; */
+    position: relative; top: 190px; right: 15px;
+}
+
+.linkedin {
+    scale: 15%;
+    position:relative; top: -290px; left: -530px;
+    cursor:pointer;
+}
+
+.github {
+    scale: 20%;
+    position: relative; top: -650px; left: -1285px;
+    cursor:pointer;
+}
+
+.email {
+    scale: 18%;
+    position: relative; top: -1250px; left: -105px;
+    cursor:pointer;
+}
+
+.instagram {
+    scale: 12.5%;
+    position: relative; top: -1290px; left: -800px;
+    cursor:pointer;
+}
+
+button{
+    position:relative; top:-1600px; left:20px;
+}

@@ -1,0 +1,62 @@
+body {
+    background-image: url(../images/portfolio_background.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    /* background-attachment: scroll; */
+    background-position: top;
+    
+    font-family:'Courier New', Courier, monospace;
+    /* font-size: 150%; */
+}
+
+button{
+    position:relative; top:-1780px; left: 15px;
+}
+
+.box1 {
+    width: 360px;
+    height: 360px;
+    background-color: #ffffff;
+    position: relative; top:390px; left:170px;
+    cursor: pointer;
+    opacity: 0%;
+}
+
+.box2 {
+    width: 450px;
+    height: 250px;
+    background-color: #ffffff;
+    position: relative; top:-320px; left:130px; right: 0px;
+    cursor: pointer;
+    opacity: 0%;
+}
+
+.box3 {
+    width: 400px;
+    height: 530px;
+    background-color: #ffffff;
+    position: relative; top:-480px; left:620px; right: 0px;
+    cursor: pointer;
+    opacity: 0%;
+}
+
+.box4 {
+    width: 400px;
+    height: 400px;
+    background-color: #ffffff;
+    position: relative; top:-1100px; left:1100px; right: 0px;
+    cursor: pointer;
+    opacity: 0%;
+}
+
+.box5 {
+    width: 475px;
+    height: 200px;
+    background-color: #ffffff;
+    position: relative; top:-1000px; left:1070px; right: 0px;
+    cursor: pointer;
+    opacity: 0%;
+}
+
+
+

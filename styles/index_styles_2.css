@@ -1,0 +1,56 @@
+body {
+    background-image: url(../images/rijul_background_2.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    /* background-attachment: scroll; */
+    /* background-position: top; */
+    
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    /* font-size: 150%; */
+}
+
+h1 {
+    font-size: 400%;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: right;
+    text-justify: auto;
+    position: relative; top:130px; left:0px; right:0px; bottom:0px;
+}
+
+h2 {
+    font-size: 200%;
+    font-weight: normal;
+    color: #ffffff;
+    text-align: right;
+    text-justify: auto;
+    position: relative; top:100px; left:0px; right:0px; bottom:0px;
+}
+
+.linkedin {
+    scale: 15%;
+    position:relative; top: -290px; left: 1020px;
+    cursor:pointer;
+}
+
+.github {
+    scale: 20%;
+    position: relative; top: -520px; right: 100px;
+    cursor:pointer;
+}
+
+.email {
+    scale: 18%;
+    position: relative; top: -1250px; left: 1065px;
+    cursor:pointer;
+}
+
+.instagram {
+    scale: 12.5%;
+    position: relative; top: -1170px; left: 500px;
+    cursor:pointer;
+}
+
+button{
+    position:relative; top:-1610px; left:20px;
+}

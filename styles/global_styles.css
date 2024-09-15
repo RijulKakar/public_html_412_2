@@ -1,0 +1,20 @@
+/* body {
+    font-family:'Courier New', Courier, monospace;
+} */
+
+
+.topnav {
+    overflow: hidden;
+    background-color: #500000;
+    position: relative;
+    opacity: 75%;
+    text-align: center;
+}
+
+.topnav a {
+    float: float;
+    color: #ffffff;
+    text-align: center;
+    padding: 55px;
+    font-size: 50px;
+}
